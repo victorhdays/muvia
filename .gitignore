@@ -1,0 +1,15 @@
+# Only reviewed presentation material belongs in this repository.
+*
+!README.md
+!NOTICE.md
+!.gitignore
+!docs/
+docs/*
+!docs/architecture.md
+!docs/product.md
+!docs/quality.md
+!assets/
+assets/*
+!assets/cover.svg
+!assets/planner.png
+!assets/states.png

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+  <title id="title">Muvia — ingeniería de movilidad regional</title>
+  <desc id="desc">Portada de portafolio con tipografía clara y una conexión abstracta de cuatro nodos.</desc>
+  <rect width="1280" height="460" rx="24" fill="#102A35"/>
+  <path d="M870 0V460M1020 0V460M1170 0V460M760 110H1280M760 260H1280M760 410H1280" stroke="#25434B" stroke-width="1"/>
+  <text x="64" y="78" fill="#CAEAA6" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">PRODUCT ENGINEERING / ANDROID</text>
+  <text x="60" y="168" fill="#F6F4EC" font-family="Arial,sans-serif" font-size="70" font-weight="700">Muvia</text>
+  <text x="64" y="223" fill="#D3DEE0" font-family="Arial,sans-serif" font-size="25">Movilidad regional. Información clara.</text>
+  <text x="64" y="261" fill="#A6BCC2" font-family="Arial,sans-serif" font-size="19">Flutter · FastAPI · Datos geoespaciales</text>
+  <rect x="64" y="329" width="248" height="47" rx="23.5" fill="#CAEAA6"/>
+  <text x="188" y="359" text-anchor="middle" fill="#102A35" font-family="Arial,sans-serif" font-size="15" font-weight="700">CASO TÉCNICO DE PORTAFOLIO</text>
+  <text x="333" y="359" fill="#A6BCC2" font-family="Arial,sans-serif" font-size="15">Norte de Veracruz · En desarrollo</text>
+  <path d="M868 361V295Q868 260 903 260H1059Q1094 260 1094 225V112" fill="none" stroke="#CAEAA6" stroke-width="12" stroke-linecap="round"/>
+  <g fill="#102A35" stroke="#F6F4EC" stroke-width="7"><circle cx="868" cy="361" r="13"/><circle cx="910" cy="260" r="13"/><circle cx="1050" cy="260" r="13"/><circle cx="1094" cy="112" r="13"/></g>
+  <text x="866" y="420" fill="#A6BCC2" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">DISEÑO / DATOS / CALIDAD</text>
+</svg>
